@@ -1,8 +1,8 @@
-## My Drug Overdose Logs
+## Overdose Logs
 
-Welcome to my drug overdose logs! Here, I will upload the dosage and symptoms of each overdose, providing reference value for some people, while also allowing me to review everything.
+Welcome to overdose logs! Here, I will upload the dosage and symptoms of each overdose, providing reference value for some people, while also allowing me to review everything.
 
-欢迎来到我的药物过量日志！在这里我将上传每次过量用药的剂量与症状，为一些人提供参考价值，同时让我可以回顾我的一切。
+欢迎来到药物过量日志！在这里我将上传每次过量用药的剂量与症状，为一些人提供参考价值，同时让我可以回顾我的一切。
 
 ---
 
